@@ -1,6 +1,6 @@
 """
     Autor: Giulliano Paz
-    Mat: 121151618
+    E-mail: giulliano94@gmail.com
     Curso: Ciência da Computação
     Inst: Universidade Federal do Pampa - UNIPAMPA
 """
